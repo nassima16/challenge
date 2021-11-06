@@ -29,3 +29,29 @@
 */
 
 /* Add all of your styles here */
+
+
+h2 {
+  color: red;
+{
+    
+h3 {
+  color: red;
+{   
+    
+ .image1 {
+   
+
+    margin-top :1 em ;
+    
+    }
+       
+    
+ .image2 {
+    float: left;
+    margin-left : 50px;
+    margin-top :200px ;
+    margin-right : 150px ;
+    margin-bottom: 150px ; 
+    }
+    
