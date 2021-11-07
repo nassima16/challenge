@@ -45,7 +45,7 @@ h3 {
 .div1{
    
 
-  height: 1000px;
+  height: 800px;
   width: 100%;
 
 
@@ -57,7 +57,7 @@ h3 {
   width : 100% ;
     
  height: 50%;
- top : 0;     
+ position : top;     
  
    
  object-fit:cover;
