@@ -72,10 +72,10 @@ object-position: 100% 0;
 
 .img2 {
     
-    float: left;
     transform: scale(0.5);
     position: absolute;
-    height: 10px;
+    height: 0px;
+    float: left;
     }
 
 
