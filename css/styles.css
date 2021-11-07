@@ -75,6 +75,9 @@ object-position: 100% 0;
     
     float: left;
     transform: scale(0.5);
+    position: relative;
+    top : 0px;
+    left: 30px;
 
   
     }
