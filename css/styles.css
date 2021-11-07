@@ -54,9 +54,7 @@ h3 {
 
 .img1{
  height: 50%;
-  width: 100%;   
-
-bottom:0;
+ overflow: hidden;  
  object-fit:cover;
 
 }
