@@ -84,6 +84,7 @@ object-position: 100% 0;
     position: absolute;
     top: 30px;
     left:0px
+    float: left;    
    
     }
 
