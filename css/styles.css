@@ -34,15 +34,15 @@ h2 {
   color: red;
 }
     
-img.img1{
-    
-    margin-top : 1 em;
-    width: auto;
-    height: 300 px ;
-}
+
 h3 {
   color: red;
 }   
     
  
+.img1{
     
+
+    width: auto;
+    height: 50 px ;
+}    
