@@ -40,10 +40,11 @@ h3 {
 }   
     
  .img1{
-   
-  width : "300";
+  
+  margin-top :  1 em ;   
+  width : auto;
      
-  height : "300";
+  height : 300 px;
     
     }
        
