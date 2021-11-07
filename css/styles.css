@@ -79,12 +79,12 @@ object-position: 100% 0;
 
 
 .img2 {
-    
+    float: left;  
     transform : scale(0.5);
     position: absolute;
     top: 30px;
     left:0px
-    float: left;    
+      
    
     }
 
