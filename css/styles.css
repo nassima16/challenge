@@ -42,11 +42,22 @@ h3 {
  
    
  
-.div1{
+div1{
   
-background-image: url('images/toystory4_wallpaper.jpg')
+ width : 100% ;
     
-background-size: 300px 100px;
+ height: 600px;
  
+}
+
+.img1{
+    
+  width : 100% ;
+    
+ height: 100%;
+    
+ object-fit:cover;
+  
+
 }
 
