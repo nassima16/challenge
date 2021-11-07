@@ -34,6 +34,9 @@
 h1 {
   color: #960001;
   font-size : 70px;  
+  position: relative;
+  left : 200px;  
+    
     
 }
 
