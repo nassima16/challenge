@@ -68,8 +68,16 @@ object-position: 100% 0;
 
 }
 
+
+.div2{
+ display : inline-block; 
+ margin : 0 auto;
+    
+ 
+}
+
 .img2 {
-    margin-top : 0px;
+    
     float: left;
     transform: scale(0.5);
     
