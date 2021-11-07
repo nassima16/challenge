@@ -30,6 +30,13 @@
 
 /* Add all of your styles here */
 
+
+h1 {
+  color: #960001;
+  font-size : 70px;  
+  left : 200px;  
+}
+
 h2 {
   color: red;
 }
