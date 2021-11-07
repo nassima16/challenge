@@ -70,7 +70,8 @@ object-position: 100% 0;
 
 .img2 {
     float: left;
-    margin-top : 100px;
     transform: scale(0.5);
+    margin-top : 10px;
+
   
     }
