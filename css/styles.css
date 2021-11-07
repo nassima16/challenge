@@ -71,8 +71,10 @@ object-position: 100% 0;
 
 .div2{
  display : inline-block; 
- width : 200px ;   
- height: 200px;
+ width : 300px ;   
+ height: 300px;
+    
+ margin-top  = 0px;    
     
  
 }
