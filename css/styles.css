@@ -54,7 +54,7 @@ h3 {
 
 .img1{
 transform: scaleY(0.5);
-transform-origin: top;
+transform-origin: bottom;
 width:100%;   
  height:100%;
  object-fit:cover;
