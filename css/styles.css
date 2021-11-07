@@ -69,9 +69,10 @@ object-position: 100% 0;
 }
 
 .img2 {
+    margin-top : 0px;
     float: left;
     transform: scale(0.5);
-    margin-top : 10px;
+    
 
   
     }
