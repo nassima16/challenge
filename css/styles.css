@@ -43,10 +43,10 @@ h3 {
    
  
 .div1{
-   
+  
+  position :fixed; 
   height: 400px;
   width: 100%;
-   position :relative;
 
 
 }
@@ -58,7 +58,7 @@ h3 {
  height: 100%;
     
  object-fit:cover;
- position :relative;   
+  
 
 }
 
