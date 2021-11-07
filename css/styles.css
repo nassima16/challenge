@@ -78,4 +78,10 @@ object-position: 100% 0;
     float: left;
     }
 
+.hp1{
 
+  position: absolute;
+  height: 200px
+  float: right;
+
+}
