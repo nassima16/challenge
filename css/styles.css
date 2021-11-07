@@ -64,9 +64,10 @@ object-position: 100% 0;
 
 .img2 {
     
-    transform: scale(0.5);
+ 
     position: absolute;
-    height: 200px;
+    top: 200px;
+    left: 50px;
    
     }
 
