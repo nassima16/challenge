@@ -44,9 +44,8 @@ h3 {
  
 .div1{
   
-  position :fixed; 
-  height: 600px;
-  width: 100%;
+background-image: url('images/toystory4_wallpaper.jpg')
+background-position: 0 -250px; 
 
 
 }
