@@ -104,7 +104,7 @@ margin-bottom : 30px;
 }
 
 .div2{
- margin-top : 360px;
+ margin-top : 340px;
  margin-left : 150px;   
  margin-right : 0px;    
  
@@ -127,6 +127,6 @@ p{
     transform : scale(0.6);
     position: relative;
     top: -60px;
-    left:-80px;   
+    left:-60px;   
    
     }
