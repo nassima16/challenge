@@ -136,7 +136,7 @@ p{
 .pImg3 {
 
 position: absolute;
-top : 1045px;    
+top : 1055px;    
 left : 350px;
 
 }
@@ -151,6 +151,8 @@ float:left;
 .h3Right{
 display:inline-block;
 float:right;
+position: absolute;
+right: 350px;    
 
 }
 
