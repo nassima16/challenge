@@ -152,7 +152,7 @@ float:left;
 display:inline-block;
 float:right;
 position: absolute;
-right: 390px;    
+right: 410px;    
 
 }
 
@@ -163,6 +163,6 @@ right: 390px;
     transform : scale(0.6);
     position: relative;
     top: -30px;
-    right:-300px;   
+    right:-280px;   
    
     }
