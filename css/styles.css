@@ -34,9 +34,10 @@
 h1 {
   color: #960001;
   font-size : 70px;  
-  position: relative;
+  position: absolute;
   left : 550px;  
-  top: 20px; 
+  top: 20px;
+  margin-bottom : 100px;  
   }
 
 .highlight{
