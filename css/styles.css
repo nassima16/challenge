@@ -136,7 +136,6 @@ p{
 .h3Left{
 display:inline-block;
 float:left;
-position: absolute;    
 
 }
 
@@ -144,8 +143,6 @@ position: absolute;
 .h3Right{
 display:inline-block;
 float:right;
-position: absolute;
-top:     
 
 }
 
