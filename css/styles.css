@@ -133,6 +133,14 @@ p{
     }
 
 
+.pImg3 {
+
+position: absolute;
+top : 50;    
+left : 115px;
+
+}
+
 .h3Left{
 display:inline-block;
 float:left;
