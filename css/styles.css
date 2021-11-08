@@ -130,3 +130,28 @@ p{
     left:-60px;   
    
     }
+
+
+.h3Left{
+display:inline;
+float:left;
+
+}
+
+
+.h3Right{
+display:inline;
+float:right;
+
+}
+
+
+.img4 {
+    
+    float : left;
+    transform : scale(0.6);
+    position: relative;
+    top: -50px;
+    left:-60px;   
+   
+    }
