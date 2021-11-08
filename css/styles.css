@@ -92,14 +92,14 @@ object-position: 100% 0;
     transform : scale(0.5);
     position: absolute;
     top: 30px;
-    left:0px
+    left:-10px
       
    
     }
 
 hr {
 border: 1px solid yellow;
-margin-bottom : 40px;    
+margin-bottom : 30px;    
     
 }
 
