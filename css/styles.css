@@ -89,10 +89,10 @@ object-position: 100% 0;
 
 .img2 {
       
-    transform : scale(0.5);
+    transform : scale(0.4);
     position: absolute;
-    top: 30px;
-    left:-10px
+    top: 50px;
+    left:-50px
       
    
     }
@@ -105,7 +105,7 @@ margin-bottom : 30px;
 
 .div2{
  margin-top : 340px;
- margin-left : 160px;   
+ margin-left : 110px;   
  margin-right : 10px;    
  
 }
