@@ -99,12 +99,13 @@ object-position: 100% 0;
 
 hr {
 border: 1px solid yellow;
+margin-bottom : 40px;    
     
 }
 
 .div2{
- margin-top : 320px;
- margin-left : 50px;   
+ margin-top : 350px;
+ margin-left : 150px;   
  margin-right : 50px;    
  
 }
