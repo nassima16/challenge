@@ -61,7 +61,7 @@ h3 {
 body{
 
 background-color: #5582c6;
-
+font-size : 17px;
 }
    
  
@@ -112,6 +112,7 @@ margin-bottom : 30px;
 
 p{
     color : #ffffff;
+    font-size :17px;
 }
 
 .div3{
@@ -126,7 +127,7 @@ p{
     float : left;
     transform : scale(0.6);
     position: relative;
-    top: -50px;
+    top: -30px;
     left:-60px;   
    
     }
@@ -135,6 +136,7 @@ p{
 .h3Left{
 display:inline-block;
 float:left;
+position: absolute;    
 
 }
 
@@ -142,6 +144,8 @@ float:left;
 .h3Right{
 display:inline-block;
 float:right;
+position: absolute;
+top:     
 
 }
 
@@ -151,7 +155,7 @@ float:right;
     float : left;
     transform : scale(0.6);
     position: relative;
-    top: -50px;
+    top: -30px;
     left:-60px;   
    
     }
