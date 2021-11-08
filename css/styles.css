@@ -89,7 +89,7 @@ object-position: 100% 0;
 
 .img2 {
       
-    transform : scale(0.4);
+    transform : scale(0.5);
     position: absolute;
     top: -50px;
     left:-50px     
@@ -125,6 +125,7 @@ p{
     float : left;
     transform : scale(0.5);
     position: absolute;
-       
+    top: 20px;
+    left:-50px;   
    
     }
