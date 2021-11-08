@@ -98,7 +98,7 @@ object-position: 100% 0;
     }
 
 hr {
-color :  #e2e55f;
+border: 1px solid yellow;
     
 margin-right : 2 em;
     
@@ -107,7 +107,8 @@ margin-left : 1 em;
 }
 
 .div2{
- margin-top : 310px;
-    
+ margin-top : 320px;
+ margin-left : 50px;   
+ margin-right : 50px;    
  
 }
