@@ -37,10 +37,12 @@ h1 {
   position: relative;
   left : 550px;  
   top: 20px; 
-  background-color :  #e2e55f;
-  border-color : transparent;  
-    
-    
+  }
+
+.highlight{
+background-color :  #e2e55f;
+
+
 }
 
 h2 {
