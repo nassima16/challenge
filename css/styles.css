@@ -197,3 +197,24 @@ right: 415px;
 top : 600px;     
 
 }
+
+
+.img5{
+    
+    float : left;
+    transform : scale(0.6);
+    position: relative;
+    top: -30px;
+    left:-105px;   
+   
+    }
+
+
+.pImg5 {
+
+position: absolute;
+top : 1058px;    
+left : 350px;
+
+
+
