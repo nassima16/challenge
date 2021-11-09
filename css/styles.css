@@ -183,7 +183,7 @@ right : -140px;
 display:inline-block;
 float:left;
 position: relative;
-top : 800px;    
+top : 600px;    
     
 }
 
@@ -193,6 +193,6 @@ display:inline-block;
 float:right;
 position: absolute;
 right: 415px;
-top : 800px;     
+top : 600px;     
 
 }
