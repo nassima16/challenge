@@ -182,7 +182,7 @@ right : -140px;
 .h3Left1{
 display:inline-block;
 float:left;
-position: relative;
+position: absolute;
 top : 600px;    
     
 }
