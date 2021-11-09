@@ -203,9 +203,9 @@ top : 600px;
     
     float : left;
     transform : scale(0.6);
-    position: relative;
-    top: -30px;
-    left:-105px;   
+    position: absolute;
+    top: 1280px;
+    left:145px;   
    
     }
 
@@ -216,5 +216,5 @@ position: absolute;
 top : 1058px;    
 left : 350px;
 
-
+}
 
