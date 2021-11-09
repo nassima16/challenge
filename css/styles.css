@@ -174,3 +174,22 @@ top : 1058px;
 right : -140px;
 
 }
+
+
+
+
+
+.h3Left1{
+display:inline-block;
+float:left;
+    
+}
+
+
+.h3Right1{
+display:inline-block;
+float:right;
+position: absolute;
+right: 415px;    
+
+}
