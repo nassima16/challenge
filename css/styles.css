@@ -241,13 +241,14 @@ background-color :  #e2e55f;
     
 width:100%;
     
-height: 80px;
+height: 150px;
  
-color : red;    
-}
-
-
-.p1{
-color: #960001;
+color : #960001; 
     
+position:absolute;
+    
+top: 1300px;
+left: 100px;   
 }
+
+
