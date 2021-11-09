@@ -189,15 +189,6 @@ left: 145px;
 }
 
 
-.h3Right1{
-display:inline-block;
-float:right;
-position: absolute;
-right: 415px;
-top : 600px;     
-
-}
-
 
 .img5{
     
@@ -218,3 +209,10 @@ left : 350px;
 
 }
 
+.h3Right1{
+float:right;
+position: absolute;
+right: 415px;
+top : 600px;     
+
+}
