@@ -245,7 +245,8 @@ display: inline-flex;
 align-items: center;
 position:absolute;
 top: 1500px;
-left: 130px;   
+left: 130px; 
+float:left;    
 }
 
 .p1{
