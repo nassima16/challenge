@@ -260,14 +260,16 @@ left: 130px;
 .text{
 position: absolute;
 width: 300px;
-height: 60px;    
+height: 40px;    
     
 }
 
 .button{
 position: absolute;
 width: 300px;
-height: 60px;
-color: #79519f;    
+height: 40px;
+color: #ffffff; 
+background-color: #79519f;
+border: none;    
 
 }
