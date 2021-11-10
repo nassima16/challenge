@@ -255,7 +255,18 @@ position:absolute;
 top: 1600px; 
 left: 130px;    
  width: 100%;   
-
 }
 
+.text{
+position: absolute;
+width: 100px;
+height: 30px;    
+    
+}
 
+.button{
+position: absolute;
+width: 100px;
+height: 30px;
+
+}
