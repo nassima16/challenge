@@ -27,7 +27,7 @@
     
     max-width of the content is 1400px
 */
-;
+
 /* Add all of your styles here */
 
 
@@ -37,7 +37,7 @@ h1 {
   position: relative;
   left : 520px;  
   top: 20px;
-  
+    
   }
 
 .highlight{
@@ -48,14 +48,12 @@ background-color :  #e2e55f;
 
 h2 {
   color: #960001;
-  font-size : 36px;
-  
+  font-size : 36px;   
 }
     
 
 h3 {
   color: #960001;
- 
 }   
     
  
@@ -64,7 +62,6 @@ body{
 
 background-color: #5582c6;
 font-size : 17px;
-  
 }
    
  
@@ -263,16 +260,14 @@ left: 130px;
 .text{
 position: absolute;
 width: 300px;
-height: 40px;    
+height: 60px;    
     
 }
 
 .button{
 position: absolute;
 width: 300px;
-height: 40px;
-color: #ffffff; 
-background-color: #79519f;
-border: none;    
+height: 60px;
+color: #79519f;    
 
 }
