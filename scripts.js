@@ -3,7 +3,7 @@ console.log("To infinity and beyond.");
 // write your JavaScript here
 myFonction(){
 
-alert("The form was submitted");
+alert("Comments received");
 
 
 }
