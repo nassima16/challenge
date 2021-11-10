@@ -241,6 +241,7 @@ background-color :  #e2e55f;
 color : #960001;     
 width:100%;   
 height: 80px;
+display: inline-flex;    
 align-items: center;
 position:absolute;
 top: 1500px;
