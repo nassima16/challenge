@@ -27,7 +27,7 @@
     
     max-width of the content is 1400px
 */
-
+;
 /* Add all of your styles here */
 
 
@@ -37,7 +37,7 @@ h1 {
   position: relative;
   left : 520px;  
   top: 20px;
-    
+  heading: Cabin;    
   }
 
 .highlight{
@@ -48,12 +48,14 @@ background-color :  #e2e55f;
 
 h2 {
   color: #960001;
-  font-size : 36px;   
+  font-size : 36px;
+  heading: Cabin;   
 }
     
 
 h3 {
   color: #960001;
+  heading: Cabin;   
 }   
     
  
