@@ -259,14 +259,15 @@ left: 130px;
 
 .text{
 position: absolute;
-width: 100px;
-height: 30px;    
+width: 300px;
+height: 60px;    
     
 }
 
 .button{
 position: absolute;
-width: 100px;
-height: 30px;
+width: 300px;
+height: 60px;
+color: #79519f;    
 
 }
